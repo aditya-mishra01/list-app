@@ -1,0 +1,66 @@
+body{
+  background-color: gray;
+  
+}
+
+.cont-s{
+  
+  margin: 20px;
+  margin-left: 70px;
+}
+.search{
+  height: 25px;
+  width: 200px;
+  
+  color: black;
+  font-size: medium;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+
+.list{
+  list-style: none;
+}
+.p-l{
+  float: left;
+  
+}
+.profile{
+  
+  margin: 40px;
+  
+}
+.p-img{
+  position: relative;
+  padding: 20px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #000;
+  border-radius: 25px;
+}
+.p_img{
+  height: 200px;
+  width: 200px;
+  border-radius: 20%;
+}
+.p-id{
+  font-size: 20px;
+  position: absolute;
+  height: fit-content;
+  text-align: center;
+  width: 30px;
+  bottom: 90%;
+  left: 90%;
+  color: white;
+  background-color: black;
+  border-radius: 100%;
+}
+
+.p-name{
+  
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 22px;
+  color: #000;
+  text-align: center;
+}
+
